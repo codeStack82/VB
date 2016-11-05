@@ -1,0 +1,158 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sales Staff By Tyler Hunt
+</name>
+</assembly>
+<members>
+<member name="F:Sales_Staff_By_Tyler_Hunt._default._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Sales_Staff_By_Tyler_Hunt._default._txt_Email">
+<summary>
+txt_Email control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Sales_Staff_By_Tyler_Hunt._default._RegularExpressionValidator1">
+<summary>
+RegularExpressionValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Sales_Staff_By_Tyler_Hunt._default._req_EmailField">
+<summary>
+req_EmailField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Sales_Staff_By_Tyler_Hunt._default._txt_Zip">
+<summary>
+txt_Zip control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Sales_Staff_By_Tyler_Hunt._default._valid_Zip">
+<summary>
+valid_Zip control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Sales_Staff_By_Tyler_Hunt._default._req_ZipField">
+<summary>
+req_ZipField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Sales_Staff_By_Tyler_Hunt._default._btn_Submit">
+<summary>
+btn_Submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Sales_Staff_By_Tyler_Hunt._default._lbl_Error">
+<summary>
+lbl_Error control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Sales_Staff_By_Tyler_Hunt.update._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Sales_Staff_By_Tyler_Hunt.update._dv_SalesStaff">
+<summary>
+dv_SalesStaff control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Sales_Staff_By_Tyler_Hunt.update._Company_DB">
+<summary>
+Company_DB control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Sales_Staff_By_Tyler_Hunt.update._lnkBtn_Logout">
+<summary>
+lnkBtn_Logout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="T:Sales_Staff_By_Tyler_Hunt.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Sales_Staff_By_Tyler_Hunt.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:Sales_Staff_By_Tyler_Hunt.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:Sales_Staff_By_Tyler_Hunt.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:Sales_Staff_By_Tyler_Hunt.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:Sales_Staff_By_Tyler_Hunt.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+</members>
+</doc>
